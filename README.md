@@ -47,7 +47,7 @@ jupyter lab
 # Getting started
 `Main.ipynb` contains demonstrations of all the methods developed here. If you wish to run `Main.ipynb` from scratch, be sure to delete all files in the `cache` folder. This may take a while, since it will be performing nonlinear solving from scratch.
 
-`Simulation Analysis.ipynb` contains the code used to process code and generate figures. `data.pkl` is the processed data. 
+`Simulation Analysis.ipynb` contains the code used to process code and generate figures. `data.pkl` is the processed data, which is available in the Docker container. 
 
 `wound_geometries.py` is a helper file where we generate all the geometries and meshes used.
 
